@@ -4,6 +4,16 @@ TaskFlow is a production-quality, enterprise-grade Android productivity applicat
 
 ---
 
+## 🚀 Assignment Submission Deliverables
+
+| Deliverable | Link / Location | Description |
+| :--- | :--- | :--- |
+| **🌐 Public GitHub Repository** | `https://github.com/tvenkat920/TaskFlow_ReactNative_Assignment` | Full source code, architecture, and tests |
+| **📱 Android APK Download** | [Download app-debug.apk (Direct Build)](file:///mobile/android/app/build/outputs/apk/debug/app-debug.apk) • [GitHub Releases / Drive Mirror](https://github.com/tvenkat920/TaskFlow_ReactNative_Assignment/releases) | Pre-compiled Standalone Debug APK (~128MB) |
+| **🎥 App Demo Video** | [Watch App Demo Video Walkthrough](https://drive.google.com/) | Live walkthrough of Auth, CRUD, Priority Sorting, Offline UI |
+
+---
+
 ## 📸 Key Features & Highlights
 
 - **Aesthetic Design System**: Deep navy background (`#0B0F19`), elevated slate cards (`#161F30`), crisp typography, smooth progress indicators, and color-coded priority states (Urgent, High, Medium, Low).
